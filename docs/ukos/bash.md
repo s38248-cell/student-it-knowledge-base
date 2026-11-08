@@ -1,8 +1,5 @@
-# Tytuł
-## Sekcja
-- element listy
-
-[WARP](docs/warp/git.md)
+# Bash cheatsheet
+## Komendy
 
 | Polecenie | Znaczenie |
 |---|---|
@@ -76,6 +73,5 @@ rm archive.md
 ```bash
 cat bash.md
 ```
-
-
-
+## Linki
+[WARP](docs/warp/git.md)
